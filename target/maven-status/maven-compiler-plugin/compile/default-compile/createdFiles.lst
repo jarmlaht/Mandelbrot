@@ -1,0 +1,6 @@
+com\jarmo\mandelbrot\domain\Mandelbrot.class
+com\jarmo\mandelbrot\MandelbrotApplication.class
+com\jarmo\mandelbrot\domain\MongoConf.class
+com\jarmo\mandelbrot\domain\MandelbrotRepository.class
+com\jarmo\mandelbrot\service\MandelbrotService.class
+com\jarmo\mandelbrot\web\MandelbrotController.class
